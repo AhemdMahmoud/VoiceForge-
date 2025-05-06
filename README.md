@@ -405,7 +405,7 @@ A: Check:
 ## 📬 Contact Information
 
 For questions and feedback:
-- 🌐 GitHub: [Linked In](https://www.linkedin.com/in/ahmed-mahmoud-80356b220/)
+- 🌐 Linked In: [Linked In](https://www.linkedin.com/in/ahmed-mahmoud-80356b220/)
 
 ---
 
